@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+faker
+pillow
+httpx
+numpy
+python-dateutil
+GitPython
+python-dotenv
+beautifulsoup4
+markdown

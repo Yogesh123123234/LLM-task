@@ -1,0 +1,14 @@
+2025-02-11 06:55:08,768 - INFO - Starting find_similar_comments function
+2025-02-11 06:55:08,768 - INFO - Read comments from file: data/comments.txt
+2025-02-11 06:55:09,650 - INFO - Sent request to API, status code: 404
+2025-02-11 06:55:09,650 - ERROR - Error in find_similar_comments: 404 Client Error:  for url: https://api.aiproxy.io/v1/find_similar_comments
+2025-02-11 06:55:13,289 - INFO - Starting find_similar_comments function
+2025-02-11 06:55:13,289 - INFO - Read comments from file: data/comments.txt
+2025-02-11 06:55:13,871 - INFO - Sent request to API, status code: 404
+2025-02-11 06:55:13,871 - ERROR - Error in find_similar_comments: 404 Client Error:  for url: https://api.aiproxy.io/v1/find_similar_comments
+2025-02-11 06:55:58,330 - INFO - Starting find_similar_comments function
+2025-02-11 06:55:58,330 - ERROR - Error in find_similar_comments: [Errno 2] No such file or directory: '/data/comments.txt'
+2025-02-11 06:56:00,736 - INFO - Starting find_similar_comments function
+2025-02-11 06:56:00,736 - ERROR - Error in find_similar_comments: [Errno 2] No such file or directory: '/data/comments.txt'
+2025-02-11 06:56:03,377 - INFO - Starting find_similar_comments function
+2025-02-11 06:56:03,377 - ERROR - Error in find_similar_comments: [Errno 2] No such file or directory: '/data/comments.txt'
